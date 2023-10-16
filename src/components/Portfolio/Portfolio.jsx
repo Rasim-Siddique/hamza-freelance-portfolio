@@ -154,14 +154,20 @@ const Portfolio = () => {
         <span>Links</span>
         <br />
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://www.puredome.com/">https://www.puredome.com/</a>
+        
+        <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://siddique-shoppping.netlify.app/">https://siddique-shoppping.netlify.app/</a>
+
         <br />
-        <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://www.mindinnovation.co/">https://www.mindinnovation.co/</a>
+        <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://groom-room.netlify.app/">https://groom-room.netlify.app/</a>
+
         <br />
 
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://inaequo.net/">https://inaequo.net/</a>
+        <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://lovely-crostata-7d1a25.netlify.app/">https://lovely-crostata-7d1a25.netlify.app/</a>
 
 
 
+        
 
       </div>
     </>
