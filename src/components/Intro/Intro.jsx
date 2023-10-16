@@ -9,10 +9,9 @@ import crown from "../../img/crown.png";
 import FloatinDiv from "../FloatingDiv/FloatingDiv";
 import Github from "../../img/github.png";
 import LinkedIn from "../../img/linkedin.png";
-import Facebook from "../../img/Facebook.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import { Link } from "react-scroll";
+
 const Intro = () => {
   // Transition
   const transition = { duration: 2, type: "spring" };
@@ -46,7 +45,6 @@ const Intro = () => {
 
          <a href="https://github.com/raheel-siddique?tab=repositories"> <img src={Github} alt="" /></a>
         <a href="https://www.linkedin.com/in/raheel-siddique-21b740211/"> <img src={LinkedIn} alt="" /></a> 
-         <a href="https://www.facebook.com/profile.php?id=100006960765813&sk=photos_by"> <img src={Facebook} alt="" /></a>
         </div>
       </div>
       {/* right image side */}
