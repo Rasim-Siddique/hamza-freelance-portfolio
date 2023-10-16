@@ -154,6 +154,7 @@ const Portfolio = () => {
         <span>Links</span>
         <br />
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://www.puredome.com/">https://www.puredome.com/</a>
+        <br />
         
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://siddique-shoppping.netlify.app/">https://siddique-shoppping.netlify.app/</a>
 
@@ -163,6 +164,8 @@ const Portfolio = () => {
         <br />
 
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://inaequo.net/">https://inaequo.net/</a>
+        <br />
+
         <a style={{ color: 'gray', fontSize: 35 }} target="_blank" rel="noreferrer" href="https://lovely-crostata-7d1a25.netlify.app/">https://lovely-crostata-7d1a25.netlify.app/</a>
 
 
